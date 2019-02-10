@@ -1,0 +1,6 @@
+@InProceedings{tann18,
+  author="Tanno, R. Ege, T and Yanai, K.",
+  title="AR DeepCalorieCam V2: Food Calorie Estimation with CNN and AR-based Actual Size Estimation",
+  booktitle="ACM Symposium on Virtual Reality Software and Technology (VRST)",
+  year="2018"
+}
